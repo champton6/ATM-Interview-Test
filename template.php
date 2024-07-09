@@ -5,6 +5,7 @@
     <style>
         .center {
             text-align: center;
+            margin:auto;
         }
     </style>
 </head>
